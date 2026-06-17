@@ -37,4 +37,3 @@ Output fastq files of Gut-Lung Axis project from MGI DNBSEQ-G99.
 3) Carbohydrate classes or candidate carbohydrate substrates can be annotated by `dbcan3`.
 4) Gene classes of specific MAGs can be also identified using `bakta`.
 5) `Abundance`, `coverage`, and `beadth` calculation of specific MAGs in each samples using `coverm`.
-6) 
