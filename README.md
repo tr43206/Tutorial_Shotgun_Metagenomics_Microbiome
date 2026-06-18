@@ -12,7 +12,7 @@ Output fastq files of Gut-Lung Axis project from MGI DNBSEQ-G99.
 
 ## Step 1 : Read-based analyses
 
-1) Taxonomic classification using `kraken2` or `metaphlan4` (`metaphlan4` is more strict than `kraken2`).
+1) Taxonomic classification using `kraken2` or `metaphlan4` (`metaphlan4` is stricter than `kraken2`).
 2) Functional annotation using `humann3`. Could identify contributing species in specific pathways by stratifying.
 3) For kraken2 results, relative abundance calculation with bracken is needed.
 4) Differential analysis (DA) methods (e.g., LEfSe, ALDEx2, ANCOM-BC2, MaAsLin3). Adjusting `sequence reads` as covariates is recommended.
