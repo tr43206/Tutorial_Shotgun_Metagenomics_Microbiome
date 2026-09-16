@@ -1,4 +1,4 @@
-# Microbiome_Tutorial_Shotgun-Metagenomics
+# Tutorial_Shotgun_Metagenomics_Microbiome
 Output fastq files of Gut-Lung Axis project from MGI DNBSEQ-G99.
 
 
